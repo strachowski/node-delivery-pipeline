@@ -1,6 +1,6 @@
 {
 	"name": "NodejsStarterApp",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"private": true,
 	"scripts": {
 		"start": "node app.js",
@@ -8,12 +8,12 @@
 		"statictest": "jshint"
 	},
 	"dependencies": {
-		"express": "x",
+		"express": "^4.16.3",
 		"cfenv": "x"
 	},
 	"repository": {},
 	"engines": {
-		"node": "8.x",
-		"npm": "6.x"
-	} 
+    		"node": "8.11.3",
+    		"npm": "5.6.x"
+  	}
 }
