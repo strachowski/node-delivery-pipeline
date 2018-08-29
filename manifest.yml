@@ -2,7 +2,7 @@ applications:
 - path: .
   memory: 256M
   instances: 1
-  domain: mybluemix.net
+  domain: bluemix.net
   name: node-delivery-pipeline
   host: node-delivery-pipeline
   disk_quota: 1024M
