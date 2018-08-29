@@ -8,11 +8,11 @@
 		"statictest": "jshint"
 	},
 	"dependencies": {
-		"express": "4.15.x",
-		"cfenv": "1.0.x"
+		"express": "x",
+		"cfenv": "x"
 	},
 	"repository": {},
 	"engines": {
-		"node": "6.x"
+		"node": "x"
 	} 
 }
