@@ -9,10 +9,11 @@
 	},
 	"dependencies": {
 		"express": "x",
-		"cfenv": "x"
+		"cfenv": "x",
+		"npm": "6.4.x"
 	},
 	"repository": {},
 	"engines": {
-		"node": "x"
+		"node": "10.9.x"
 	} 
 }
