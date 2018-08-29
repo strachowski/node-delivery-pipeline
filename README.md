@@ -1,13 +1,5 @@
-# Node.js Hello World Sample
+# Node.js Delivery Pipeline Example
 
-This application demonstrates a simple, reusable Node.js web application based on the Express framework.
+This application and DevOps integration show to chain build pipeline stages and run different kind of tests like static code testing or security testing.
 
-## Run the app locally
-
-1. [Install Node.js][]
-1. cd into this project's root directory
-1. Run `npm install` to install the app's dependencies
-1. Run `npm start` to start the app
-1. Access the running app in a browser at <http://localhost:6001>
-
-[Install Node.js]: https://nodejs.org/en/download/
+Pipeline configuration here: https://console.bluemix.net/devops/pipelines/ee7a27b3-a203-4510-9258-6d828542a9c2?env_id=ibm:yp:eu-gb
